@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgba(100, 149, 237, 0.8);
+}
+
+#titulo{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+#paragrafo1{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 4%;
+}
+
+#primeiroscampos{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.label{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#emaillabel{
+    padding-left: 527px;
+}
+
+#sobrenomecampo{
+    margin-left: 50px;
+}
+
+#nome{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#sobrenome{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#email{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#campo1{
+    margin-bottom: 2%;
+}
+
+#campo2{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#paragrafo2{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 1%;
+}
+
+.label2{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#campo3{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#paragrafo3{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 1%;
+}
+
+.label3{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+
+#paragrafo4{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 1%;
+}
+
+#campo4{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#senioridade{
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#btns{
+    text-align: center;
+}
+
+#btn1{
+    height: 40px;
+    width: 200px;
+    font-size: 25px;
+    background: cornflowerblue;
+    border-radius: 5px;
+    color: white;
+    border: black solid 2px;
+}
+
+#btn2{
+    height: 40px;
+    width: 200px;
+    font-size: 25px;
+    margin-left: 5%;
+    background: cornflowerblue;
+    border-radius: 5px;
+    color: white;
+    border: black solid 2px;
+}
+
+fieldset{
+    border: 0;
+}
